@@ -1,4 +1,5 @@
 class Test{
-	public static void main(String [] args) {
-	System.out.println("Hello Git");
+	public static void main(Stinrg [] args) {
+		System.out.println("Hello Git");
+		System.out.println("Hi Git");
 	}
